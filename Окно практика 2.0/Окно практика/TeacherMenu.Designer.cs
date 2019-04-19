@@ -39,7 +39,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.PaleGreen;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(581, 204);
+            this.label1.Location = new System.Drawing.Point(546, 196);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(261, 31);
             this.label1.TabIndex = 0;
@@ -47,9 +47,9 @@
             // 
             // editing
             // 
-            this.editing.BackColor = System.Drawing.Color.PaleGreen;
+            this.editing.BackColor = System.Drawing.Color.LawnGreen;
             this.editing.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.editing.Location = new System.Drawing.Point(571, 283);
+            this.editing.Location = new System.Drawing.Point(536, 275);
             this.editing.Name = "editing";
             this.editing.Size = new System.Drawing.Size(271, 102);
             this.editing.TabIndex = 1;
@@ -59,9 +59,9 @@
             // 
             // listStudent
             // 
-            this.listStudent.BackColor = System.Drawing.Color.PaleGreen;
+            this.listStudent.BackColor = System.Drawing.Color.LawnGreen;
             this.listStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.listStudent.Location = new System.Drawing.Point(571, 422);
+            this.listStudent.Location = new System.Drawing.Point(536, 414);
             this.listStudent.Name = "listStudent";
             this.listStudent.Size = new System.Drawing.Size(271, 102);
             this.listStudent.TabIndex = 2;
@@ -71,7 +71,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.PaleGreen;
+            this.button1.BackColor = System.Drawing.Color.LawnGreen;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(12, 653);
             this.button1.Name = "button1";

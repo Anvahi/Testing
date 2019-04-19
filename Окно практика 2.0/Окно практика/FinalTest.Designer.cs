@@ -52,13 +52,13 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button1.BackColor = System.Drawing.SystemColors.Highlight;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(26, 478);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(162, 51);
+            this.button1.Size = new System.Drawing.Size(229, 68);
             this.button1.TabIndex = 10;
-            this.button1.Text = "Подтвердить";
+            this.button1.Text = "Подтвердить ответ";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // Answer4
@@ -115,7 +115,7 @@
             // 
             // BackToMenu
             // 
-            this.BackToMenu.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackToMenu.BackColor = System.Drawing.SystemColors.Highlight;
             this.BackToMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BackToMenu.Location = new System.Drawing.Point(15, 635);
             this.BackToMenu.Name = "BackToMenu";

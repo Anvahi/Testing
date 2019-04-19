@@ -61,7 +61,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.PaleGreen;
+            this.button1.BackColor = System.Drawing.Color.LawnGreen;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(321, 108);
             this.button1.Name = "button1";
@@ -73,7 +73,7 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.PaleGreen;
+            this.button2.BackColor = System.Drawing.Color.LawnGreen;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button2.Location = new System.Drawing.Point(321, 211);
             this.button2.Name = "button2";
@@ -84,7 +84,7 @@
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.PaleGreen;
+            this.button3.BackColor = System.Drawing.Color.LawnGreen;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button3.Location = new System.Drawing.Point(321, 12);
             this.button3.Name = "button3";
@@ -95,7 +95,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.Color.PaleGreen;
+            this.textBox1.BackColor = System.Drawing.SystemColors.Control;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.textBox1.Location = new System.Drawing.Point(478, 24);
             this.textBox1.Name = "textBox1";
@@ -116,7 +116,7 @@
             // 
             // comboBox1
             // 
-            this.comboBox1.BackColor = System.Drawing.Color.PaleGreen;
+            this.comboBox1.BackColor = System.Drawing.SystemColors.Control;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Циклы",
@@ -156,7 +156,7 @@
             // 
             // newQuestion
             // 
-            this.newQuestion.BackColor = System.Drawing.Color.PaleGreen;
+            this.newQuestion.BackColor = System.Drawing.SystemColors.Control;
             this.newQuestion.Location = new System.Drawing.Point(547, 433);
             this.newQuestion.Name = "newQuestion";
             this.newQuestion.Size = new System.Drawing.Size(303, 20);
@@ -164,7 +164,7 @@
             // 
             // newAnswer1
             // 
-            this.newAnswer1.BackColor = System.Drawing.Color.PaleGreen;
+            this.newAnswer1.BackColor = System.Drawing.SystemColors.Control;
             this.newAnswer1.Location = new System.Drawing.Point(408, 512);
             this.newAnswer1.Name = "newAnswer1";
             this.newAnswer1.Size = new System.Drawing.Size(118, 20);
@@ -172,7 +172,7 @@
             // 
             // newAnswer2
             // 
-            this.newAnswer2.BackColor = System.Drawing.Color.PaleGreen;
+            this.newAnswer2.BackColor = System.Drawing.SystemColors.Control;
             this.newAnswer2.Location = new System.Drawing.Point(408, 548);
             this.newAnswer2.Name = "newAnswer2";
             this.newAnswer2.Size = new System.Drawing.Size(118, 20);
@@ -180,7 +180,7 @@
             // 
             // newAnswer3
             // 
-            this.newAnswer3.BackColor = System.Drawing.Color.PaleGreen;
+            this.newAnswer3.BackColor = System.Drawing.SystemColors.Control;
             this.newAnswer3.Location = new System.Drawing.Point(408, 589);
             this.newAnswer3.Name = "newAnswer3";
             this.newAnswer3.Size = new System.Drawing.Size(118, 20);
@@ -188,7 +188,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.BackColor = System.Drawing.Color.PaleGreen;
+            this.textBox5.BackColor = System.Drawing.SystemColors.Control;
             this.textBox5.Location = new System.Drawing.Point(408, 628);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(118, 20);
@@ -196,7 +196,7 @@
             // 
             // BackToMenu
             // 
-            this.BackToMenu.BackColor = System.Drawing.Color.PaleGreen;
+            this.BackToMenu.BackColor = System.Drawing.Color.LawnGreen;
             this.BackToMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BackToMenu.Location = new System.Drawing.Point(1139, 641);
             this.BackToMenu.Name = "BackToMenu";
@@ -208,7 +208,7 @@
             // 
             // Save
             // 
-            this.Save.BackColor = System.Drawing.Color.PaleGreen;
+            this.Save.BackColor = System.Drawing.Color.LawnGreen;
             this.Save.Location = new System.Drawing.Point(717, 504);
             this.Save.Name = "Save";
             this.Save.Size = new System.Drawing.Size(133, 28);

@@ -72,7 +72,7 @@
             // 
             // DeleteStudent
             // 
-            this.DeleteStudent.BackColor = System.Drawing.Color.PaleGreen;
+            this.DeleteStudent.BackColor = System.Drawing.Color.LawnGreen;
             this.DeleteStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.DeleteStudent.Location = new System.Drawing.Point(224, 79);
             this.DeleteStudent.Name = "DeleteStudent";
@@ -105,7 +105,7 @@
             // 
             // NameStudent
             // 
-            this.NameStudent.BackColor = System.Drawing.Color.PaleGreen;
+            this.NameStudent.BackColor = System.Drawing.SystemColors.Control;
             this.NameStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.NameStudent.Location = new System.Drawing.Point(540, 87);
             this.NameStudent.Name = "NameStudent";
@@ -116,7 +116,7 @@
             // 
             // SekondNameStudent
             // 
-            this.SekondNameStudent.BackColor = System.Drawing.Color.PaleGreen;
+            this.SekondNameStudent.BackColor = System.Drawing.SystemColors.Control;
             this.SekondNameStudent.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.SekondNameStudent.Location = new System.Drawing.Point(540, 145);
             this.SekondNameStudent.Name = "SekondNameStudent";
@@ -127,7 +127,7 @@
             // 
             // NewLogin
             // 
-            this.NewLogin.BackColor = System.Drawing.Color.PaleGreen;
+            this.NewLogin.BackColor = System.Drawing.SystemColors.Control;
             this.NewLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.NewLogin.Location = new System.Drawing.Point(543, 201);
             this.NewLogin.Name = "NewLogin";
@@ -138,7 +138,7 @@
             // 
             // newPassword
             // 
-            this.newPassword.BackColor = System.Drawing.Color.PaleGreen;
+            this.newPassword.BackColor = System.Drawing.SystemColors.Control;
             this.newPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.newPassword.Location = new System.Drawing.Point(541, 263);
             this.newPassword.Name = "newPassword";
@@ -149,7 +149,7 @@
             // 
             // Registration
             // 
-            this.Registration.BackColor = System.Drawing.Color.PaleGreen;
+            this.Registration.BackColor = System.Drawing.Color.LawnGreen;
             this.Registration.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Registration.Location = new System.Drawing.Point(540, 328);
             this.Registration.Name = "Registration";
@@ -160,7 +160,7 @@
             // 
             // DisplayList
             // 
-            this.DisplayList.BackColor = System.Drawing.Color.PaleGreen;
+            this.DisplayList.BackColor = System.Drawing.Color.LawnGreen;
             this.DisplayList.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.DisplayList.Location = new System.Drawing.Point(884, 31);
             this.DisplayList.Name = "DisplayList";
@@ -237,7 +237,7 @@
             // 
             // ChangeProgress
             // 
-            this.ChangeProgress.BackColor = System.Drawing.Color.PaleGreen;
+            this.ChangeProgress.BackColor = System.Drawing.Color.LawnGreen;
             this.ChangeProgress.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.ChangeProgress.Location = new System.Drawing.Point(565, 401);
             this.ChangeProgress.Name = "ChangeProgress";
@@ -249,7 +249,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.BackColor = System.Drawing.Color.PaleGreen;
+            this.numericUpDown1.BackColor = System.Drawing.SystemColors.Control;
             this.numericUpDown1.Location = new System.Drawing.Point(816, 179);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             5,
@@ -272,7 +272,7 @@
             // 
             // Filter
             // 
-            this.Filter.BackColor = System.Drawing.Color.PaleGreen;
+            this.Filter.BackColor = System.Drawing.Color.LawnGreen;
             this.Filter.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Filter.Location = new System.Drawing.Point(817, 101);
             this.Filter.Name = "Filter";
@@ -283,7 +283,7 @@
             // 
             // Sort
             // 
-            this.Sort.BackColor = System.Drawing.Color.PaleGreen;
+            this.Sort.BackColor = System.Drawing.Color.LawnGreen;
             this.Sort.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Sort.Location = new System.Drawing.Point(816, 221);
             this.Sort.Name = "Sort";
@@ -294,7 +294,7 @@
             // 
             // BackToMenu
             // 
-            this.BackToMenu.BackColor = System.Drawing.Color.PaleGreen;
+            this.BackToMenu.BackColor = System.Drawing.Color.LawnGreen;
             this.BackToMenu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.BackToMenu.Location = new System.Drawing.Point(16, 660);
             this.BackToMenu.Name = "BackToMenu";
@@ -306,7 +306,7 @@
             // 
             // comboBox1
             // 
-            this.comboBox1.BackColor = System.Drawing.Color.PaleGreen;
+            this.comboBox1.BackColor = System.Drawing.SystemColors.Control;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "По теме циклы",
@@ -339,7 +339,7 @@
             // 
             // newProgress
             // 
-            this.newProgress.BackColor = System.Drawing.Color.PaleGreen;
+            this.newProgress.BackColor = System.Drawing.SystemColors.Control;
             this.newProgress.Location = new System.Drawing.Point(565, 539);
             this.newProgress.Name = "newProgress";
             this.newProgress.Size = new System.Drawing.Size(244, 20);

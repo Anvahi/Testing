@@ -49,3 +49,20 @@ C:\Users\Вячеслав\Desktop\Repository_ST\Окно практика 2.0\О
 C:\Users\Вячеслав\Desktop\Repository_ST\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.csproj.CoreCompileInputs.cache
 C:\Users\Вячеслав\Desktop\Repository_ST\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.exe
 C:\Users\Вячеслав\Desktop\Repository_ST\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.pdb
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\bin\Debug\Окно практика.exe.config
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\bin\Debug\Окно практика.exe
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\bin\Debug\Окно практика.pdb
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.csprojAssemblyReference.cache
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.EditingQuestion.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.FinalTest.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.MainForm.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.Properties.Resources.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.StudentsList.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.TeacherMenu.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.Test.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.Training.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно_практика.Меню_для_студента.resources
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.csproj.GenerateResource.cache
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.exe
+C:\Users\Алексей\Testing\Окно практика 2.0\Окно практика\obj\Debug\Окно практика.pdb

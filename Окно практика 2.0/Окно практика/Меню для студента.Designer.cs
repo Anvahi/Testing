@@ -48,7 +48,7 @@
             // 
             // buttonTraining
             // 
-            this.buttonTraining.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.buttonTraining.BackColor = System.Drawing.SystemColors.Highlight;
             this.buttonTraining.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.buttonTraining.Location = new System.Drawing.Point(496, 297);
             this.buttonTraining.Name = "buttonTraining";
@@ -60,7 +60,7 @@
             // 
             // buttonTest
             // 
-            this.buttonTest.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.buttonTest.BackColor = System.Drawing.SystemColors.Highlight;
             this.buttonTest.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.buttonTest.Location = new System.Drawing.Point(496, 388);
             this.buttonTest.Name = "buttonTest";
@@ -72,7 +72,7 @@
             // 
             // buttonFinalTest
             // 
-            this.buttonFinalTest.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.buttonFinalTest.BackColor = System.Drawing.SystemColors.Highlight;
             this.buttonFinalTest.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.buttonFinalTest.Location = new System.Drawing.Point(496, 486);
             this.buttonFinalTest.Name = "buttonFinalTest";
@@ -84,7 +84,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.button1.BackColor = System.Drawing.SystemColors.Highlight;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.Location = new System.Drawing.Point(12, 653);
             this.button1.Name = "button1";
