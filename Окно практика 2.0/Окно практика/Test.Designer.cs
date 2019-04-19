@@ -217,6 +217,7 @@
             this.Dynamic.TabStop = true;
             this.Dynamic.Text = "Динамическая память";
             this.Dynamic.UseVisualStyleBackColor = false;
+            this.Dynamic.CheckedChanged += new System.EventHandler(this.Dynamic_CheckedChanged);
             // 
             // Pointers
             // 
@@ -230,6 +231,7 @@
             this.Pointers.TabStop = true;
             this.Pointers.Text = "Адреса и указатели";
             this.Pointers.UseVisualStyleBackColor = false;
+            this.Pointers.CheckedChanged += new System.EventHandler(this.Pointers_CheckedChanged);
             // 
             // Files
             // 
@@ -243,6 +245,7 @@
             this.Files.TabStop = true;
             this.Files.Text = "Файлы";
             this.Files.UseVisualStyleBackColor = false;
+            this.Files.CheckedChanged += new System.EventHandler(this.Files_CheckedChanged);
             // 
             // Structs
             // 
@@ -256,6 +259,7 @@
             this.Structs.TabStop = true;
             this.Structs.Text = "Структуры";
             this.Structs.UseVisualStyleBackColor = false;
+            this.Structs.CheckedChanged += new System.EventHandler(this.Structs_CheckedChanged);
             // 
             // Recursion
             // 
@@ -269,6 +273,7 @@
             this.Recursion.TabStop = true;
             this.Recursion.Text = "Рекурсия";
             this.Recursion.UseVisualStyleBackColor = false;
+            this.Recursion.CheckedChanged += new System.EventHandler(this.Recursion_CheckedChanged);
             // 
             // Strings
             // 
@@ -282,6 +287,7 @@
             this.Strings.TabStop = true;
             this.Strings.Text = "Строки";
             this.Strings.UseVisualStyleBackColor = false;
+            this.Strings.CheckedChanged += new System.EventHandler(this.Strings_CheckedChanged);
             // 
             // Arrays
             // 
@@ -295,6 +301,7 @@
             this.Arrays.TabStop = true;
             this.Arrays.Text = "Массивы (одномерные и двумерные)";
             this.Arrays.UseVisualStyleBackColor = false;
+            this.Arrays.CheckedChanged += new System.EventHandler(this.Arrays_CheckedChanged);
             // 
             // Cycles
             // 
@@ -308,6 +315,7 @@
             this.Cycles.TabStop = true;
             this.Cycles.Text = "Циклы";
             this.Cycles.UseVisualStyleBackColor = false;
+            this.Cycles.CheckedChanged += new System.EventHandler(this.Cycles_CheckedChanged);
             // 
             // button2
             // 
@@ -319,6 +327,7 @@
             this.button2.TabIndex = 25;
             this.button2.Text = "Выбрать";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label3
             // 
