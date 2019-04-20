@@ -32,6 +32,7 @@ namespace Окно_практика
             Hide();
             Меню_для_студента newForm = new Меню_для_студента();
             newForm.Show();
+            flag_3 = 1;
         }
 
         private void Numbers_Click(object sender, EventArgs e)
