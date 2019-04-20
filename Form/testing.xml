@@ -32,7 +32,7 @@
 		              3) 5
 		              4) 12345
 		          </quest>
-		          <true>1)</true>
+		          <true>1</true>
 		    </question>
         <question id = "3">
 		          <quest>
@@ -48,7 +48,7 @@
 		              3) ни разу
 	              	4) 2 раза
               </quest>
-		          <true>3)</true>
+		          <true>3</true>
 		     </question>
          <question id = "4">
 		           <quest>
@@ -58,7 +58,7 @@
                    3) ;
 		               4) .
                </quest>
-		           <true>1)</true>
+		           <true>1</true>
 		      </question>
           <question id = "5">
 		            <quest>
@@ -74,7 +74,7 @@
 		                3) 1 
 		                4) ничего
                 </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		        </question>
             <question id = "6">
 		              <quest>
@@ -84,7 +84,7 @@
 		                  3) for
 		                  4) switch
                   </quest>
-		              <true>2)</true>
+		              <true>2</true>
 		         </question>
              <question id = "7">
                    <quest>
@@ -94,7 +94,7 @@
 		                   3) for
 		                   4) switch
                  </quest>
-		             <true>1)</true>
+		             <true>1</true>
 		        </question>
             <question id = "8">
                 <quest>
@@ -104,7 +104,7 @@
                     3) repeat until
                     4) while
                 </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "9">
                 <quest>
@@ -114,7 +114,7 @@
                     3) Пока х больше ста
                     4) Пока х меньше или равен стам
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		       </question>
 		       <question id = "10">
                 <quest>
@@ -124,7 +124,7 @@
                     3) у цикла нет условия
                     4) не истинно
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "11">
 		            <quest>
@@ -140,7 +140,7 @@
 		                3) ни разу
 		                4) 100 раз
                   </quest>
-		              <true>1)</true>
+		              <true>1</true>
 		      </question>
 		      <question id = "12">
 		            <quest>
@@ -150,7 +150,7 @@
                     3) с постусловием
                     4) не является циклом                  
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "13">
 		            <quest>
@@ -166,7 +166,7 @@
                     3) 12345678...
                     4) true
                 </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "14">
 		            <quest>
@@ -176,7 +176,7 @@
 		                3) зависит от условия задачи
 		                4) не знаю
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "15">
 		            <quest>
@@ -186,7 +186,7 @@
                     3) не 1), не 2)
                     4) нет четкого определения этого термина       
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "16">
 		            <quest>
@@ -202,7 +202,7 @@
                     3) 15
                     4) 1234
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "17">
 		            <quest>
@@ -218,7 +218,7 @@
                     3) 5
                     4) 01234
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "18">
 		            <quest>
@@ -228,7 +228,7 @@
                     3) зависит от условия задачи
                     4) не знаю
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "19">
 		            <quest>
@@ -244,7 +244,7 @@
                     3) 6
                     4) 56
                 </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "20">
 		            <quest>
@@ -270,7 +270,7 @@
 			                }
 			                for (инициализация параметра; проверка условия окончания; коррекция параметра)
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "21">
 		            <quest>
@@ -280,7 +280,7 @@
                     3) Условие завершения цикла
                     4) Нет верного ответа из предложенных
                 </quest>
-                <true>3)</true>
+                <true>3</true>
 		      </question>
 		      <question id = "22">
 		            <quest>
@@ -290,7 +290,7 @@
                     3) 50
                     4) 0
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "23">
 		            <quest>
@@ -302,7 +302,7 @@
 		                3) оба ответа верны
                     4) ни одного верного ответа
                 </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "24">
 		            <quest>
@@ -312,7 +312,7 @@
                     3) 1 раз
                     4) нет верного ответа
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "25">
 		            <quest>
@@ -322,7 +322,7 @@
                     3) Цикл с постусловием do-while
                     4) Нет верного ответа
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "26">
 		            <quest>
@@ -334,7 +334,7 @@
                     3) 1 раз
                     4) бесконечное кол-во раз
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "27">
 		            <quest>
@@ -346,7 +346,7 @@
                     3) 0
                     4) 2
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "28">
 		            <quest>
@@ -360,7 +360,7 @@
                     3) 0
                     4) 6
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "29">
 		            <quest>
@@ -372,7 +372,7 @@
                     3) 1
                     4) 16
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "30">
 		            <quest>
@@ -382,7 +382,7 @@
                     3) Совместно с оператором switch-case
                     4) Ни одного верного ответа
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
     </cycles>
     <arrays>
@@ -394,7 +394,7 @@
                     3) Под массивом понимается совокупность бесконечного числа данных различных типов
                     4) Под массивом понимается совокупность конечного числа данных одного типа
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "32">
 		            <quest>
@@ -413,7 +413,7 @@
                     3) 22
                     4) 21
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "33">
 		            <quest>
@@ -423,7 +423,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) количество байт, занимаемых одним элементом массива
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "34">
 		            <quest>
@@ -433,7 +433,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) количество байт, занимаемых одним элементом массива
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "35">
 		            <quest>
@@ -443,7 +443,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) количество байт, занимаемых одним элементом массива
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "36">
 		            <quest>
@@ -453,7 +453,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) количество байт, занимаемых одним элементом массива
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 	      	</question>
 	      	<question id = "37">
 		            <quest>
@@ -463,7 +463,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) количество байт, занимаемых одним элементом массива
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "38">
 		            <quest>
@@ -473,7 +473,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) кол-во элементов массива
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "39">
 		            <quest>
@@ -483,7 +483,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) кол-во элементов массива
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 	      	</question>
 		      <question id = "40">
 		            <quest>
@@ -493,7 +493,7 @@
                     3) тип имя{размерность}={инициализация};
                     4) ни одного верного варианта
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "41">
 		            <quest>
@@ -503,7 +503,7 @@
                     3) 0
                     4) 11
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "42">
 		            <quest>
@@ -514,7 +514,7 @@
                     3) 5
                     4) не определено
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "43">
 		            <quest>
@@ -524,7 +524,7 @@
                     3) ( )
                     4) ни в каких
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "44">
 		            <quest>
@@ -542,7 +542,7 @@
 			                for ( int i = 0; i &lt; 10; i ++)
 			                Arr [i] = rand ()+100;
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "45">
 		            <quest>
@@ -552,7 +552,7 @@
                     3) идентификатор, используемый для обращения к элементам массива
                     4) кол-во элементов массива
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "46">
 		            <quest>
@@ -562,7 +562,7 @@
                     3) это массивы, у которых нет индекса
                     4) ни одного верного ответа
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "47">
 		            <quest>
@@ -572,7 +572,7 @@
                     3) тип имя_массива[размер первого измерения][размер второго измерения];
                     4) тип имя_массива[размер второго измерения]{размер второго измерения};
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "48">
 		            <quest>
@@ -582,7 +582,7 @@
                     3) массив бывает только одномерный
                     4) доступ к конкретному элементу массива осуществляется по индексу (индексам)
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "49">
 		            <quest>
@@ -592,7 +592,7 @@
                     3) array anarray [20] [20]
                     4) char array [20]
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "50">
 		            <quest>
@@ -602,7 +602,7 @@
                     3) mas 8
                     4) mas [7]
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "51">
 		            <quest>
@@ -623,7 +623,7 @@
                      3) 100
                      4) 200
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "52">
 		            <quest>
@@ -641,7 +641,7 @@
                      3) -100
                      4) 0
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "53">
 		            <quest>
@@ -661,7 +661,7 @@
                     3) 17
                     4) 18
 	            	</quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "54">
 		            <quest>
@@ -679,7 +679,7 @@
                     3) 2
                     4) 3
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "55">
 		            <quest>
@@ -696,7 +696,7 @@
                     3) 1
                     4) 17
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "56">
 		            <quest>
@@ -713,7 +713,7 @@
                     3) 4
                     4) 5
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "57">
 		            <quest>
@@ -730,7 +730,7 @@
                     3) 6
                     4) 7
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "58">
 		            <quest>
@@ -748,7 +748,7 @@
                     3) 4
                     4) 6
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "59">
 		            <quest>
@@ -765,7 +765,7 @@
                     3) 6
                     4) 2
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "60">
 		            <quest>
@@ -783,7 +783,7 @@
                     3) 4
                     4) 6
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
   </arrays>
   <lines>
@@ -795,7 +795,7 @@
                     3) double
                     4) char
 		            </quest>
-	            	<true>1)</true>
+	            	<true>1</true>
 		      </question>
 	      	<question id = "62">
 	            	<quest>
@@ -805,7 +805,7 @@
                     3) void()
                     4) empty()
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 	      	</question>
 		      <question id = "63">
 		            <quest>
@@ -815,7 +815,7 @@
                     3) void()
                     4) empty()
                 </quest>
-	            	<true>4)</true>
+	            	<true>4</true>
 		      </question>
 	       	<question id = "64">
 		            <quest>
@@ -825,7 +825,7 @@
                     3) 1) и 2) 
                     4) не 1), и не 2)
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "65">
 		            <quest>
@@ -835,7 +835,7 @@
                     3) void()
                     4) empty()
                 </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "66">
 		            <quest>
@@ -845,7 +845,7 @@
                     3) cin
                     4) printf
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 	      	</question>
 		      <question id = "67">
 		            <quest>
@@ -855,7 +855,7 @@
                     3) using std:string;
                     4) using string:std;
 		            </quest>
-	            	<true>1)</true>
+	            	<true>1</true>
 		      </question>
 		      <question id = "68">
 		            <quest>
@@ -865,7 +865,7 @@
                     3) \0
                     4) 0\
 	            	</quest>
-	            	<true>3)</true>
+	            	<true>3</true>
 		      </question>
 		      <question id = "69">
 		            <quest>
@@ -875,7 +875,7 @@
                     3) квадратные скобки
                     4) фигурные скобки
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "70">
 		            <quest>
@@ -885,7 +885,7 @@
                     3) кавычки
                     4) оператора
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "71">
 		            <quest>
@@ -895,7 +895,7 @@
                     3) cout
                     4) void()
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "72">
 		            <quest>
@@ -905,7 +905,7 @@
                     3) выполняет побайтное копирование n символов из строки  s2 в строку s1. возвращает значения s1
                     4) объединяет строку s2 со строкой s1. Результат сохраняется в s1
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "73">
 	            	<quest>
@@ -915,7 +915,7 @@
                     3) выполняет побайтное копирование n символов из строки  s2 в строку s1. возвращает значения s1
                     4) объединяет строку s2 со строкой s1. Результат сохраняется в s1
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "74">
 		            <quest>
@@ -925,7 +925,7 @@
                     3) выполняет побайтное копирование n символов из строки  s2 в строку s1. возвращает значения s1
                     4) объединяет строку s2 со строкой s1. Результат сохраняется в s1
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "75">
 		            <quest>
@@ -935,7 +935,7 @@
                     3) выполняет побайтное копирование n символов из строки  s2 в строку s1. возвращает значения s1
                     4) объединяет строку s2 со строкой s1. Результат сохраняется в s1
 	            	</quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "76">
 	            	<quest>
@@ -945,7 +945,7 @@
 		                3) сравнивает n символов строки s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 С учётом регистра
 		                4) сравнивает строку s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 Без учёта регистра
 		            </quest>
-	            	<true>1)</true>
+	            	<true>1</true>
 		      </question>
 	      	<question id = "77">
 		            <quest>
@@ -955,7 +955,7 @@
                     3) сравнивает n символов строки s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 С учётом регистра
                     4) сравнивает строку s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2, &lt; 0 — если s1 &gt; s2 Без учёта регистр
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "78">
 		            <quest>
@@ -965,7 +965,7 @@
                     3) сравнивает n символов строки s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 С учётом регистра
                     4) сравнивает строку s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 Без учёта регистра
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "79">
 		            <quest>
@@ -975,7 +975,7 @@
 		                3) сравнивает n символов строки s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 С учётом регистра
 		                4) сравнивает строку s1 со строкой s2 и возвращает результат типа int: 0 –если строки эквивалентны, &gt; 0 – если s1 &lt; s2,  &lt; 0  — если s1 &gt; s2 Без учёта регистра
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "80">
 		            <quest>
@@ -985,7 +985,7 @@
                     3) возвращает значение true, если с является буквой, и false в других случаях
                     4) возвращает значение true, если с является цифрой, и false в других случаях
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "81">
 		            <quest>
@@ -995,7 +995,7 @@
                     3) возвращает значение true, если с является буквой, и false в других случаях
                     4) возвращает значение true, если с является цифрой, и false в других случаях
 		            </quest>
-	            	<true>2)</true>
+	            	<true>2</true>
 		      </question>
 	      	<question id = "82">
 	            	<quest>
@@ -1005,7 +1005,7 @@
                     3) возвращает значение true, если с является буквой, и false в других случаях
                     4) возвращает значение true, если с является цифрой, и false в других случаях
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "83">
 		            <quest>
@@ -1015,7 +1015,7 @@
                     3) возвращает значение true, если с является буквой, и false в других случаях
                     4) возвращает значение true, если с является цифрой, и false в других случаях
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "84">
 		            <quest>
@@ -1025,7 +1025,7 @@
                     3) преобразует строку s1 в тип long int
                     4) считывает символ с со стандартного потока ввода, возвращает символ в формате int
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "85">
 		            <quest>
@@ -1035,7 +1035,7 @@
                     3) преобразует строку s1 в тип long int
                     4) считывает символ с со стандартного потока ввода, возвращает символ в формате int
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "86">
 		            <quest>
@@ -1045,7 +1045,7 @@
                     3) преобразует строку s1 в тип long int
                     4) считывает символ с со стандартного потока ввода, возвращает символ в формате int
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "87">
 		            <quest>
@@ -1055,7 +1055,7 @@
                     3) преобразует строку s1 в тип long int
                     4) считывает символ с со стандартного потока ввода, возвращает символ в формате int
 		            </quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "88">
 		            <quest>
@@ -1065,7 +1065,7 @@
                     3) возвращает длину начального сегмента строки s1, содержащего только те символы, которые входят в строку s2
                     4) Возвращает указатель  первого вхождения любого символа строки s2 в строке s1
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 	      	</question>
 		      <question id = "89">
 		            <quest>
@@ -1075,7 +1075,7 @@
                     3) возвращает длину начального сегмента строки s1, содержащего только те символы, которые входят в строку s2
                     4) Возвращает указатель  первого вхождения любого символа строки s2 в строке s1
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "90">
 		            <quest>
@@ -1085,7 +1085,7 @@
                     3) возвращает длину начального сегмента строки s1, содержащего только те символы, которые входят в строку s2
                     4) Возвращает указатель  первого вхождения любого символа строки s2 в строке s1
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 	</lines>
 	<recursion>
@@ -1109,7 +1109,7 @@
                     3) 11
                     4) 10
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 		      <question id = "92">
 		            <quest>
@@ -1131,7 +1131,7 @@
                     3) 24
                     4) 4
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "93">
 		            <quest>
@@ -1153,7 +1153,7 @@
                     3) 17
                     4) 46
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "94">
 		            <quest>
@@ -1175,7 +1175,7 @@
                     3) 16
                     4) 18
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "95">
 		            <quest>
@@ -1197,7 +1197,7 @@
                     3) 36
                     4) 37
 	            	</quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 	      	<question id = "96">
 		            <quest>
@@ -1219,7 +1219,7 @@
                     3) 10
                     4) 16
 		            </quest>
-	            	<true>2)</true>
+	            	<true>2</true>
 		      </question>
 		      <question id = "97">
 		            <quest>
@@ -1241,7 +1241,7 @@
                     3) 24
                     4) 12
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "98">
 		            <quest>
@@ -1263,7 +1263,7 @@
                     3) 25
                     4) 20
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 	      	<question id = "99">
 		            <quest>
@@ -1287,7 +1287,7 @@
                     3) 12
                     4) 18
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 	      	<question id = "100">
 	            	<quest>
@@ -1311,7 +1311,7 @@
                     3) 18
                     4) 20
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 	      	<question id = "101">
 	            	<quest>
@@ -1335,7 +1335,7 @@
                     3) 35
                     4) 36
 		            </quest>
-	            	<true>2)</true>
+	            	<true>2</true>
 		      </question>
 	      	<question id = "102">
 		            <quest>
@@ -1359,7 +1359,7 @@
                     3) 53
                     4) 52
 	            	</quest>
-	            	<true>1)</true>
+	            	<true>1</true>
 	        </question>
 	      	<question id = "103">
 	            	<quest>
@@ -1381,7 +1381,7 @@
                     3) 13
                     4) 16
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "104">
 		            <quest>
@@ -1403,7 +1403,7 @@
                     3) 13
                     4) 14
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 	      	<question id = "105">
 		            <quest>
@@ -1425,7 +1425,7 @@
                     3) 48
                     4) 17
 	            	</quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 	      	<question id = "106">
 		            <quest>
@@ -1447,7 +1447,7 @@
                     3) 16
                     4) 18
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 	      	<question id = "107">
 		            <quest>
@@ -1469,7 +1469,7 @@
                     3) 26
                     4) 24
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "108">
 		            <quest>
@@ -1491,7 +1491,7 @@
                     3) 27
                     4) 28
 		            </quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "109">
 		            <quest>
@@ -1508,7 +1508,7 @@
                     3) 14
                     4) 16
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 	      	<question id = "110">
 		            <quest>
@@ -1531,7 +1531,7 @@
                     3) 6
                     4) 8
 	            	</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 	      	<question id = "111">
 		            <quest>
@@ -1554,7 +1554,7 @@
                     3) 4
                     4) 6
 		            </quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 	      	<question id = "112">
 		            <quest>
@@ -1570,7 +1570,7 @@
                     3) 6
                     4) 8
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "113">
 		            <quest>
@@ -1586,7 +1586,7 @@
                     3) 8
                     4) 4
 	            	</quest>
-		            <true>3)</true>
+		            <true>3</true>
 		      </question>
 		      <question id = "114">
 	            	<quest>
@@ -1602,7 +1602,7 @@
                     3) 4
                     4) 2
 		            </quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "115">
 		            <quest>
@@ -1618,7 +1618,7 @@
                     3) 14
                     4) 13
 	            	</quest>
-		            <true>4)</true>
+		            <true>4</true>
 		      </question>
 		      <question id = "116">
 		            <quest>
@@ -1634,7 +1634,7 @@
                     3) 12
                     4) 14
 	            	</quest>
-	            	<true>2)</true>
+	            	<true>2</true>
 		      </question>
 		      <question id = "117">
 		            <quest>
@@ -1650,7 +1650,7 @@
                     3) 22
                     4) 24
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 		      </question>
 		      <question id = "118">
 	            	<quest>
@@ -1667,7 +1667,7 @@
                     3) 12
                     4) 18
 	            	</quest>
-		            <true>3)</true>
+		            <true>3</true>
 	      	</question>
 		      <question id = "119">
 		            <quest>
@@ -1686,7 +1686,7 @@
                     3) 47
                     4) 46
 	            	</quest>
-		            <true>1)</true>
+		            <true>1</true>
 	      	</question>
 		      <question id = "120">
 		            <quest>
@@ -1705,7 +1705,7 @@
                     3) 12
                     4) 16
             		</quest>
-		            <true>2)</true>
+		            <true>2</true>
 		      </question>
 	</recursion>
 	<struct> 
@@ -1965,7 +1965,7 @@
 			    3) точкой запятой 
 			    4) двоеточием 
 			</quest>
-			<true></true> 
+			<true>3</true> 
 		</question>
 		<question id = "142" >
 		    <quest>
@@ -2074,7 +2074,7 @@
 			    3) srukt 
 			    4) str 
 			</quest>
-			<true></true> 
+			<true>1</true> 
 		</question>
 	</struct>
 	<file>

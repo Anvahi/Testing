@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-8" standalone="yes" ?>
 <user>
-    <login1>
-			<name>Vadim</name>
-			<surname>Berkut</surname>
+    <login id ="1">
+			<name>Vadim Berkut</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -15,10 +14,9 @@
             </test>
 			<total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-       </login1>
-	<login2>
-            <name>Ilya</name>
-            <surname>Goncharik</surname>
+       </login>
+	<login id ="2">
+            <name>Ilya Goncharik</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -31,10 +29,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-	</login2>
-    <login3>
-            <name>Alexandr</name>
-            <surname>Griminov</surname>
+	</login>
+    <login id ="3">
+            <name>Alexandr Griminov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -47,10 +44,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login3>
-    <login4>
-            <name>Andrey</name>
-            <surname>Dudlin</surname>
+    </login>
+    <login id ="4">
+            <name>Andrey Dudlin</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -63,10 +59,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login4>
-    <login5>
-            <name>Egor</name>
-            <surname>Zharkov</surname>
+    </login>
+    <login id ="5">
+            <name>Egor Zharkov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -79,10 +74,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login5>
-    <login6>
-            <name>Dmitry</name>
-            <surname>Zhukov</surname>
+    </login>
+    <login id ="6">
+            <name>Dmitry Zhukov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -95,10 +89,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login6>
-    <login7>
-            <name>Alina</name>
-            <surname>Kapcherina</surname>
+    </login>
+    <login id ="7">
+            <name>Alina Kapcherina</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -111,10 +104,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login7>
-    <login8>
-            <name>Bogdan</name>
-            <surname>Korzh</surname>
+    </login>
+    <login id ="8">
+            <name>Bogdan Korzh</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -127,10 +119,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login8>
-    <login9>
-            <name>Mariya</name>
-            <surname>Krylova</surname>
+    </login>
+    <login id ="9">
+            <name>Mariya Krylova</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -143,10 +134,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login9>
-    <login10>
-            <name>Mikhail</name>
-            <surname>Kurguz</surname>
+    </login>
+    <login id ="10">
+            <name>Mikhail Kurguz</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -159,10 +149,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login10>
-    <login11>
-            <name>Valeriy</name>
-            <surname>Lebedev</surname>
+    </login>
+    <login id ="11">
+            <name>Valeriy Lebedev</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -175,10 +164,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login11>
-    <login12>
-            <name>Vyacheslav</name>
-            <surname>Lyadov</surname>
+    </login>
+    <login id ="12">
+            <name>Vyacheslav Lyadov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -191,10 +179,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login12>
-    <login13>
-            <name>Maksim</name>
-            <surname>Nikonov</surname>
+    </login>
+    <login id ="13">
+            <name>Maksim Nikonov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -207,10 +194,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login13>
-    <login14>
-            <name>Anton</name>
-            <surname>Pavlovskiy</surname>
+    </login>
+    <login id ="14">
+            <name>Anton Pavlovskiy</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -223,10 +209,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login14>
-    <login15>
-            <name>Marina</name>
-            <surname>Peskova</surname>
+    </login>
+    <login id ="15">
+            <name>Marina Peskova</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -239,10 +224,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login15>
-    <login16>
-            <name>Artem</name>
-            <surname>Podgornyak</surname>
+    </login>
+    <login id ="16">
+            <name>Artem Podgornyak</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -255,10 +239,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login16>
-    <login17>
-            <name>Aleksey</name>
-            <surname>Rakitin</surname>
+    </login>
+    <login id ="17">
+            <name>Aleksey Rakitin</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -271,10 +254,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login17>
-    <login18>
-            <name>Ivan</name>
-            <surname>Semenov</surname>
+    </login>
+    <login id ="18">
+            <name>Ivan Semenov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -287,10 +269,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login18>
-    <login19>
-            <name>Oleg</name>
-            <surname>Trusov</surname>
+    </login>
+    <login id ="19">
+            <name>Oleg Trusov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -303,10 +284,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login19>
-    <login20>
-            <name>Polina</name>
-            <surname>Khomenkova</surname>
+    </login>
+    <login id ="20">
+            <name>Polina Khomenkova</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -319,10 +299,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login20>
-    <login21>
-            <name>Andrey</name>
-            <surname>Tsarukyan</surname>
+    </login>
+    <login id ="21">
+            <name>Andrey Tsarukyan</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -335,10 +314,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login21>
-    <login22>
-            <name>Ilya</name>
-            <surname>Shatrov</surname>
+    </login>
+    <login id ="22">
+            <name>Ilya Shatrov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -351,10 +329,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login22>
-    <login23>
-            <name>Ivan</name>
-            <surname>Shirokov</surname>
+    </login>
+    <login id ="23">
+            <name>Ivan Shirokov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -367,10 +344,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login23>
-    <login24>
-            <name>Evgeniya</name>
-            <surname>Yaroslavtseva</surname>
+    </login>
+    <login id ="24">
+            <name>Evgeniya Yaroslavtseva</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -383,10 +359,9 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login24>
-    <login25>
-            <name>Denis</name>
-            <surname>Pavlov</surname>
+    </login>
+    <login id ="25">
+            <name>Denis Pavlov</name>
             <test>
                 <cycles>(comm.:mark)</cycles>
                 <arrays>(comm.:mark)</arrays>
@@ -399,5 +374,5 @@
             </test>
             <total>(comm.:mark)</total>
             <grade>(comm.:mark)</grade>
-    </login25>
+    </login>
 </user>
