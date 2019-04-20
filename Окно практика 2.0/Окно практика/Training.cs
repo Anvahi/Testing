@@ -11,12 +11,12 @@ using System.Xml;
 
 namespace Окно_практика
 {
-	public partial class Training : Form
-	{
-		public Training()
-		{
-			InitializeComponent();
-		}
+    public partial class Training : Form
+    {
+        public Training()
+        {
+            InitializeComponent();
+        }
 
 		const int MAX_QUESTIONS = 240;
 		const int MAX_THEMES = 8;
@@ -100,28 +100,10 @@ namespace Окно_практика
 			}
 		}
 
-		private static void ClearRecord()
-		{
-			amount = 0;
-			for (int i = 0; i < MAX_QUESTIONS; i++)
-			{
-				isNotOpened[i] = false;
-			}
-
-			cur_theme = 0;
-			cur_answer = null;
-			//cur_question = null;
-			cur_isAnswered = true;
-			answered = -1;
-		}
-
 		private void NextQuestion()
 		{
 			if (answered >= 10 - 1)
 			{
-				Question.Text = "Вы справились с темой!";
-				ClearRecord();
-
 				return;
 			}
 
@@ -136,15 +118,15 @@ namespace Окно_практика
 		}
 
 		private void button1_Click(object sender, EventArgs e)
-		{
-			/*XmlDocument xTraining = new XmlDocument();
+        {
+            /*XmlDocument xTraining = new XmlDocument();
             xTraining.Load("testing.xml");*/
 
-			if (Cycles.Checked == true)
-			{
+            if (Cycles.Checked==true)
+            {
 				cur_theme = 1;
 			}
-			if (Arrays.Checked == true)
+            if (Arrays.Checked == true)
 			{
 				cur_theme = 2;
 			}
@@ -176,25 +158,25 @@ namespace Окно_практика
 			NextQuestion();
 		}
 
-		private void button3_Click(object sender, EventArgs e)
-		{
-			Hide();
-			Меню_для_студента newForm = new Меню_для_студента();
-			newForm.Show();
-		}
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Меню_для_студента newForm = new Меню_для_студента();
+            newForm.Show(); 
+        }
 
-		private void Training_FormClosed(object sender, FormClosedEventArgs e)
-		{
-			Application.Exit();
-		}
+        private void Training_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
 
-		private void label1_Click(object sender, EventArgs e)
-		{
+        private void label1_Click(object sender, EventArgs e)
+        {
 
-		}
+        }
 
-		private void button2_Click(object sender, EventArgs e)
-		{
+        private void button2_Click(object sender, EventArgs e)
+        {
 			if (cur_answer == null)
 			{
 				return;
@@ -225,7 +207,7 @@ namespace Окно_практика
 					{
 						cur_isAnswered = true;
 					}
-					break;
+					break;			
 			}
 
 			if (cur_isAnswered)
@@ -233,5 +215,5 @@ namespace Окно_практика
 				NextQuestion();
 			}
 		}
-	}
+    }
 }
