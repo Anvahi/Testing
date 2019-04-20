@@ -1550,5 +1550,10 @@ namespace Окно_практика
                 Rate.Text = "5";
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
