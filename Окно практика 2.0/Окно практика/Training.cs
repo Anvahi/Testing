@@ -71,7 +71,7 @@ namespace Окно_практика
 		private static void UploadQuestionData(int question)
 		{
 			XmlDocument doc = new XmlDocument();
-			doc.Load("resources/questions.xml");
+			doc.Load("testing.xml");
 
 			XmlElement root = doc.DocumentElement;
 			foreach (XmlNode nodes in root)
