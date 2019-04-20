@@ -62,7 +62,6 @@
             this.Question.Name = "Question";
             this.Question.Size = new System.Drawing.Size(1216, 600);
             this.Question.TabIndex = 0;
-            this.Question.Text = "Выберите тему";
             this.Question.Click += new System.EventHandler(this.Question_Click);
             // 
             // Answer1
