@@ -875,7 +875,7 @@ namespace Окно_практика
            
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void AnswerIt_Click(object sender, EventArgs e)
         {
             if (Answer1.Checked)
                 anser = 1;
@@ -1555,6 +1555,11 @@ namespace Окно_практика
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Answer1_CheckedChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

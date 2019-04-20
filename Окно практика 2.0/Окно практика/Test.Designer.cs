@@ -33,7 +33,7 @@
             this.Answer2 = new System.Windows.Forms.RadioButton();
             this.Answer3 = new System.Windows.Forms.RadioButton();
             this.Answer4 = new System.Windows.Forms.RadioButton();
-            this.button1 = new System.Windows.Forms.Button();
+            this.AnswerIt = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.Rate = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -74,9 +74,9 @@
             this.Answer1.Name = "Answer1";
             this.Answer1.Size = new System.Drawing.Size(123, 33);
             this.Answer1.TabIndex = 1;
-            this.Answer1.TabStop = true;
             this.Answer1.Text = "Ответ 1";
             this.Answer1.UseVisualStyleBackColor = false;
+            this.Answer1.CheckedChanged += new System.EventHandler(this.Answer1_CheckedChanged);
             // 
             // Answer2
             // 
@@ -88,7 +88,6 @@
             this.Answer2.Name = "Answer2";
             this.Answer2.Size = new System.Drawing.Size(123, 33);
             this.Answer2.TabIndex = 2;
-            this.Answer2.TabStop = true;
             this.Answer2.Text = "Ответ 2";
             this.Answer2.UseVisualStyleBackColor = false;
             // 
@@ -102,7 +101,6 @@
             this.Answer3.Name = "Answer3";
             this.Answer3.Size = new System.Drawing.Size(123, 33);
             this.Answer3.TabIndex = 3;
-            this.Answer3.TabStop = true;
             this.Answer3.Text = "Ответ 3";
             this.Answer3.UseVisualStyleBackColor = false;
             // 
@@ -116,22 +114,21 @@
             this.Answer4.Name = "Answer4";
             this.Answer4.Size = new System.Drawing.Size(123, 33);
             this.Answer4.TabIndex = 4;
-            this.Answer4.TabStop = true;
             this.Answer4.Text = "Ответ 4";
             this.Answer4.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // AnswerIt
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.Highlight;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(357, 784);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(267, 78);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Подтвердить ответ";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.AnswerIt.BackColor = System.Drawing.SystemColors.Highlight;
+            this.AnswerIt.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.AnswerIt.Location = new System.Drawing.Point(357, 784);
+            this.AnswerIt.Margin = new System.Windows.Forms.Padding(4);
+            this.AnswerIt.Name = "AnswerIt";
+            this.AnswerIt.Size = new System.Drawing.Size(267, 78);
+            this.AnswerIt.TabIndex = 5;
+            this.AnswerIt.Text = "Подтвердить ответ";
+            this.AnswerIt.UseVisualStyleBackColor = false;
+            this.AnswerIt.Click += new System.EventHandler(this.AnswerIt_Click);
             // 
             // label2
             // 
@@ -234,7 +231,6 @@
             this.Dynamic.Name = "Dynamic";
             this.Dynamic.Size = new System.Drawing.Size(296, 33);
             this.Dynamic.TabIndex = 33;
-            this.Dynamic.TabStop = true;
             this.Dynamic.Text = "Динамическая память";
             this.Dynamic.UseVisualStyleBackColor = false;
             this.Dynamic.CheckedChanged += new System.EventHandler(this.Dynamic_CheckedChanged);
@@ -249,7 +245,6 @@
             this.Pointers.Name = "Pointers";
             this.Pointers.Size = new System.Drawing.Size(261, 33);
             this.Pointers.TabIndex = 32;
-            this.Pointers.TabStop = true;
             this.Pointers.Text = "Адреса и указатели";
             this.Pointers.UseVisualStyleBackColor = false;
             this.Pointers.CheckedChanged += new System.EventHandler(this.Pointers_CheckedChanged);
@@ -264,7 +259,6 @@
             this.Files.Name = "Files";
             this.Files.Size = new System.Drawing.Size(114, 33);
             this.Files.TabIndex = 31;
-            this.Files.TabStop = true;
             this.Files.Text = "Файлы";
             this.Files.UseVisualStyleBackColor = false;
             this.Files.CheckedChanged += new System.EventHandler(this.Files_CheckedChanged);
@@ -279,7 +273,6 @@
             this.Structs.Name = "Structs";
             this.Structs.Size = new System.Drawing.Size(154, 33);
             this.Structs.TabIndex = 30;
-            this.Structs.TabStop = true;
             this.Structs.Text = "Структуры";
             this.Structs.UseVisualStyleBackColor = false;
             this.Structs.CheckedChanged += new System.EventHandler(this.Structs_CheckedChanged);
@@ -294,7 +287,6 @@
             this.Recursion.Name = "Recursion";
             this.Recursion.Size = new System.Drawing.Size(142, 33);
             this.Recursion.TabIndex = 29;
-            this.Recursion.TabStop = true;
             this.Recursion.Text = "Рекурсия";
             this.Recursion.UseVisualStyleBackColor = false;
             this.Recursion.CheckedChanged += new System.EventHandler(this.Recursion_CheckedChanged);
@@ -309,7 +301,6 @@
             this.Strings.Name = "Strings";
             this.Strings.Size = new System.Drawing.Size(118, 33);
             this.Strings.TabIndex = 28;
-            this.Strings.TabStop = true;
             this.Strings.Text = "Строки";
             this.Strings.UseVisualStyleBackColor = false;
             this.Strings.CheckedChanged += new System.EventHandler(this.Strings_CheckedChanged);
@@ -324,7 +315,6 @@
             this.Arrays.Name = "Arrays";
             this.Arrays.Size = new System.Drawing.Size(464, 33);
             this.Arrays.TabIndex = 27;
-            this.Arrays.TabStop = true;
             this.Arrays.Text = "Массивы (одномерные и двумерные)";
             this.Arrays.UseVisualStyleBackColor = false;
             this.Arrays.CheckedChanged += new System.EventHandler(this.Arrays_CheckedChanged);
@@ -339,7 +329,6 @@
             this.Cycles.Name = "Cycles";
             this.Cycles.Size = new System.Drawing.Size(110, 33);
             this.Cycles.TabIndex = 26;
-            this.Cycles.TabStop = true;
             this.Cycles.Text = "Циклы";
             this.Cycles.UseVisualStyleBackColor = false;
             this.Cycles.CheckedChanged += new System.EventHandler(this.Cycles_CheckedChanged);
@@ -393,7 +382,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Rate);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.AnswerIt);
             this.Controls.Add(this.Answer4);
             this.Controls.Add(this.Answer3);
             this.Controls.Add(this.Answer2);
@@ -417,7 +406,7 @@
         private System.Windows.Forms.RadioButton Answer2;
         private System.Windows.Forms.RadioButton Answer3;
         private System.Windows.Forms.RadioButton Answer4;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button AnswerIt;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label Rate;
         private System.Windows.Forms.Label label1;
