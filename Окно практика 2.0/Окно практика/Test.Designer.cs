@@ -56,13 +56,12 @@
             // Question
             // 
             this.Question.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.Question.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Question.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Question.Location = new System.Drawing.Point(16, 11);
             this.Question.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Question.Name = "Question";
-            this.Question.Size = new System.Drawing.Size(1216, 460);
+            this.Question.Size = new System.Drawing.Size(1216, 600);
             this.Question.TabIndex = 0;
-            this.Question.Text = "Вопрос по теме:\r\n";
             this.Question.Click += new System.EventHandler(this.Question_Click);
             // 
             // Answer1
@@ -70,7 +69,7 @@
             this.Answer1.AutoSize = true;
             this.Answer1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Answer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Answer1.Location = new System.Drawing.Point(61, 513);
+            this.Answer1.Location = new System.Drawing.Point(357, 616);
             this.Answer1.Margin = new System.Windows.Forms.Padding(4);
             this.Answer1.Name = "Answer1";
             this.Answer1.Size = new System.Drawing.Size(123, 33);
@@ -84,7 +83,7 @@
             this.Answer2.AutoSize = true;
             this.Answer2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Answer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Answer2.Location = new System.Drawing.Point(61, 564);
+            this.Answer2.Location = new System.Drawing.Point(357, 657);
             this.Answer2.Margin = new System.Windows.Forms.Padding(4);
             this.Answer2.Name = "Answer2";
             this.Answer2.Size = new System.Drawing.Size(123, 33);
@@ -98,7 +97,7 @@
             this.Answer3.AutoSize = true;
             this.Answer3.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Answer3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Answer3.Location = new System.Drawing.Point(61, 612);
+            this.Answer3.Location = new System.Drawing.Point(357, 698);
             this.Answer3.Margin = new System.Windows.Forms.Padding(4);
             this.Answer3.Name = "Answer3";
             this.Answer3.Size = new System.Drawing.Size(123, 33);
@@ -112,7 +111,7 @@
             this.Answer4.AutoSize = true;
             this.Answer4.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Answer4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Answer4.Location = new System.Drawing.Point(61, 657);
+            this.Answer4.Location = new System.Drawing.Point(357, 739);
             this.Answer4.Margin = new System.Windows.Forms.Padding(4);
             this.Answer4.Name = "Answer4";
             this.Answer4.Size = new System.Drawing.Size(123, 33);
@@ -125,7 +124,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.Highlight;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(61, 694);
+            this.button1.Location = new System.Drawing.Point(357, 784);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(267, 78);
@@ -139,7 +138,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(787, 674);
+            this.label2.Location = new System.Drawing.Point(787, 689);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(174, 25);
@@ -151,7 +150,7 @@
             this.Rate.AutoSize = true;
             this.Rate.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Rate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Rate.Location = new System.Drawing.Point(969, 674);
+            this.Rate.Location = new System.Drawing.Point(969, 689);
             this.Rate.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Rate.Name = "Rate";
             this.Rate.Size = new System.Drawing.Size(23, 25);
@@ -170,6 +169,7 @@
             this.label1.Size = new System.Drawing.Size(215, 25);
             this.label1.TabIndex = 8;
             this.label1.Text = "Количество ошибок - ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // CountMistake
             // 
