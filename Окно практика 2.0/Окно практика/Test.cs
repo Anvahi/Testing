@@ -896,10 +896,10 @@ namespace Окно_практика
                 {
                     case 1:
                         {
-                            foreach (XmlNode xnode in xRoot)
+							foreach (XmlNode xnode in xRoot)
                             {
-                                if (xnode.Name == "cycles")
-                                {
+							if (xnode.Name == "cycles")
+								{
                                     foreach (XmlNode childcycles in xnode.ChildNodes)
                                     {
                                         if (childcycles.Attributes.Count > 0)

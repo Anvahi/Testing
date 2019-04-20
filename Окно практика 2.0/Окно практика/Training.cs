@@ -76,14 +76,14 @@ namespace Окно_практика
 			XmlElement root = doc.DocumentElement;
 			foreach (XmlNode nodes in root)
 			{
-				foreach (XmlNode cycleNode in nodes)
+				foreach (XmlNode questNode in nodes)
 				{
-					if (cycleNode.Attributes.Count > 0)
+					if (questNode.Attributes.Count > 0)
 					{
-						XmlNode attr = cycleNode.Attributes.GetNamedItem("id");
+						XmlNode attr = questNode.Attributes.GetNamedItem("id");
 						if (attr.Value == question.ToString())
 						{
-							foreach (XmlNode quest in cycleNode.ChildNodes)
+							foreach (XmlNode quest in questNode.ChildNodes)
 							{
 								if (quest.Name == "quest")
 								{
